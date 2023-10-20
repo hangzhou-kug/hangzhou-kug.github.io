@@ -110,9 +110,6 @@ menu:
     - identifier: kotlin docs
       name: 中文文档
       url: https://www.kotlincn.net/
-    - indetifier: community
-      name: 交流社区
-      url: https://discuss.kotliner.cn/
 
 publishDir: ../public
 
