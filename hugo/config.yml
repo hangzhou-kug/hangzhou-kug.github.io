@@ -33,7 +33,7 @@ params:
 
   profileMode:
     enabled: true
-    title: "Shenzhen Kotlin User Group" # optional default will be site title
+    title: "Hangzhou Kotlin User Group" # optional default will be site title
     subtitle: Hi, 这里是杭州 Kotlin 用户组，欢迎所有热爱 Kotlin 的开发者加入用户组
     content:
       - 在这里可以和其它成员一起学习、讨论技术、解决问题（有人懂的话） 📚
