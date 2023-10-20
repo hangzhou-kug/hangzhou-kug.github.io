@@ -40,7 +40,7 @@ jobs:
       - name: Deploy Into Publish Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.ACCESS_TOKEN }}
           publish_branch: publish
           commit_message: ${{ github.event.head_commit.message }}
 
