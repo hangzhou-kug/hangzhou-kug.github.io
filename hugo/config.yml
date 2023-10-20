@@ -1,6 +1,6 @@
-baseURL: https://szkug.github.io/website-hugo/
-languageCode: zh-cn
-title: 深圳 KUG
+baseURL: https://hangzhou-kug.github.io/
+languageCode: zh-CN
+title: 杭州 KUG
 theme: "PaperMod"
 
 enableRobotsTXT: true
@@ -14,10 +14,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: 深圳 KUG
-  description: "深圳 Kotlin 用户组"
-  keywords: [Kotlin, Kotlin User Group, Shenzhen Kotlin User Group, 深圳 Kotlin 用户组, KUG, Shenzhen KUG, 深圳 KUG]
-  author: korilin
+  title: 杭州 KUG
+  description: "杭州 Kotlin 用户组"
+  keywords: [Kotlin, Kotlin User Group, Hangzhou Kotlin User Group, 杭州 Kotlin 用户组, KUG, Hangzhou KUG, 杭州 KUG]
+  author: paidasha
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
   defaultTheme: auto # dark, light
@@ -29,19 +29,19 @@ params:
     favicon: "kug-logo.png"
 
   label:
-    text: "深圳 KUG"
+    text: "杭州 KUG"
 
   profileMode:
     enabled: true
     title: "Shenzhen Kotlin User Group" # optional default will be site title
-    subtitle: Hi, 这里是深圳 Kotlin 用户组，欢迎所有热爱 Kotlin 的开发者加入用户组
+    subtitle: Hi, 这里是杭州 Kotlin 用户组，欢迎所有热爱 Kotlin 的开发者加入用户组
     content:
       - 在这里可以和其它成员一起学习、讨论技术、解决问题（有人懂的话） 📚
       - 我们还会不定期举行研讨会，进行与 Kotlin 相关的主题分享与讨论
-      - 用户组 QQ 交流群/频道：811981478（也有微信群）
+      - 用户组 QQ 交流群/频道：637865581
 
     imageUrl: "kug-logo.png" # optional
-    imageTitle: "sz_kug_logo" # optional
+    imageTitle: "hz_kug_logo" # optional
     imageWidth: 360 # custom size
     imageHeight: 360 # custom size
 
@@ -55,7 +55,7 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/szkug/"
+      url: "https://github.com/hangzhou-kug/"
 
   ShowReadingTime: false
   ShowShareButtons: true
